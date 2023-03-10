@@ -12,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className='font-bold text-3xl'>
-        hello
+        hello from index
       </main>
     </>
   )
